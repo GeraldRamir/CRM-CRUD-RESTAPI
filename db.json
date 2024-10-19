@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gerald",
+      "email": "lucianoramirezgerald@gmail.com",
+      "telefono": "8099810798",
+      "empresa": "Unapec",
+      "id": "d9d0"
+    },
+    {
+      "nombre": "Juan",
+      "email": "g.luciano5@unapec.edu.do",
+      "telefono": "8099810798",
+      "empresa": "Venta de Libros DL",
+      "id": "63ac"
+    }
+  ]
+}
