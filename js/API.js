@@ -1,4 +1,4 @@
-const url='http://localhost:4000/clientes'
+const url='https://crm-crud-restapi-2.onrender.com/clientes'
 
 
 // Envia los clientes a la API
